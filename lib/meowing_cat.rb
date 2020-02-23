@@ -3,7 +3,7 @@ class Cat(name)
   def name=(cat_name)
     attr_accessor:name
   end
-  def 
+  def
     @name
   end
 end
