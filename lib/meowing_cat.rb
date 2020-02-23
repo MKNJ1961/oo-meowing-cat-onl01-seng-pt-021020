@@ -1,9 +1,9 @@
 
-class Cat(name)
-  def name=(cat_name)
-    attr_accessor:name
-  end
-  def
-    @name
+class Cat
+  attr_accessor :name
+  def meow
+    puts "meow"
   end
 end
+    
+
